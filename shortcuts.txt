@@ -1,0 +1,16 @@
+Command -> Shortcut
+
+$ rails server    ->    $ rails s
+$ rails console   ->    $ rails c
+$ rails generate  ->    $ rails g
+$ rails test      ->    $ rails t
+$ bundle install  ->    $ bundle
+
+
+$ rails generate controller StaticPages home help
+ - is countered by -
+$ rails destroy controller StaticPages home help
+
+$ rails db:migrate
+ - is countered by -
+$ rails db:rollback
